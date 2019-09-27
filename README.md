@@ -17,6 +17,5 @@ sudo apt-get install python3-pyside2.qt3dcore python3-pyside2.qt3dinput python3-
 sudo apt-get install qml-module-qtquick-dialogs qml-module-qtquick-controls2 qml-module-qtquick-controls
 
 ## PyQt5
-sudo apt-get install python3-pyqt5
-sudo apt-get install qt5-default
+sudo apt-get install python3-pyqt5 qt5-default
 
